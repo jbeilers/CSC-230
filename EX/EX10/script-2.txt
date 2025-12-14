@@ -1,0 +1,20 @@
+a = 5
+b = 20
+c = 50
+d = -100
+e = 99
+f = 1000000000000
+
+x = b - a
+print x
+
+y = c * d
+print y
+
+z
+=
+f
+/
+e
+print
+z

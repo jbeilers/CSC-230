@@ -1,0 +1,5 @@
+insert 0 x
+insert 1 c
+insert 1 b
+insert 1 a
+delete 0

@@ -1,0 +1,55 @@
+insert 0 a
+insert 1 b
+insert 2 c
+delete 0
+delete 1
+insert 0 p
+insert 2 b
+delete 0
+delete 1
+insert 1 8
+insert 2 i
+delete 1
+insert 1 -
+insert 3 r
+delete 0
+insert 1 0
+insert 1 u
+insert 4 2
+delete 4
+insert 4 j
+delete 1
+insert 4 l
+insert 3 s
+insert 6 5
+insert 5 q
+insert 8 -
+insert 8 l
+delete 6
+insert 8 q
+insert 11 *
+insert 8 s
+delete 0
+insert 3 5
+delete 4
+delete 9
+delete 6
+insert 7 h
+delete 10
+insert 7 8
+insert 4 -
+insert 8 7
+delete 6
+insert 8 h
+delete 4
+delete 7
+insert 5 -
+delete 9
+delete 6
+delete 5
+delete 7
+insert 7 j
+delete 7
+delete 5
+insert 5 n
+delete 2

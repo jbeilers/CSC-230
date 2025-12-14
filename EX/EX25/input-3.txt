@@ -1,0 +1,28 @@
+Input 3
+Here is another input file.
+It's also not a multiple of
+8 bytes in length, however
+the password we're going to
+use with it also isn't exactly
+8 bytes, so you'll have to
+pad it.
+
+This file also shows a problem
+with the Electronic Code Book
+(ECB) technique we're using
+to encrypt.  Each block is
+encrypted independently, so
+two duplicate blocks will
+encrypt to the same thing, no
+matter what the key is.
+
+For example, the following will
+encrypt to another copy of the
+first block:
+
+Input 3
+
+There are ways to fix this, by
+folding some part of a previous
+block into the encryption of
+each successive block.

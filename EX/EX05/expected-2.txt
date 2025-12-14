@@ -1,0 +1,26 @@
+Players tie
+Players tie
+Player A wins
+Players tie
+Players tie
+Players tie
+Players tie
+Players tie
+Players tie
+Player B wins
+Players tie
+Players tie
+Player B wins
+Players tie
+Players tie
+Player A wins
+Player A wins
+Player B wins
+Player B wins
++--------+-------+
+| A Wins |     3 |
++--------+-------+
+| B Wins |     4 |
++--------+-------+
+| Ties   |    12 |
++--------+-------+

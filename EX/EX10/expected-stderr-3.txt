@@ -1,0 +1,10 @@
+Overflow: a + c
+Overflow: a + c
+Overflow: a - c
+Overflow: a - c
+Overflow: a * c
+Overflow: a * c
+Overflow: a * c
+Overflow: a * c
+Divide by zero: a / c
+Overflow: a / c

@@ -1,0 +1,12 @@
+Player B wins
+Player A wins
+Players tie
+Player A wins
+Player A wins
++--------+-------+
+| A Wins |     3 |
++--------+-------+
+| B Wins |     1 |
++--------+-------+
+| Ties   |     1 |
++--------+-------+

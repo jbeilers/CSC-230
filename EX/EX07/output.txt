@@ -1,0 +1,17 @@
+event |   avg |               high |                low
+------+-------+--------------------+-------------------
+    1 | 49.53 |      Kennith 89.30 |        Damon  0.73
+    2 | 44.70 |       Darrel 88.40 |      Loretta 17.29
+    3 | 51.20 |        Damon 95.60 |          Jay  2.78
+    4 | 54.19 |          Ami 93.36 |         Lane  6.72
+    5 | 45.07 |        Brain 79.44 |      Kennith  1.94
+    6 | 59.87 |         Vern 95.30 |      Kennith  9.03
+    7 | 63.83 |        Brain 98.14 |      Kennith  2.98
+    8 | 39.26 |       Jennie 94.25 |      Kennith  0.94
+    9 | 48.41 |      Kennith 95.05 |        Brain  3.37
+   10 | 41.37 |      Loretta 93.58 |          Jay 11.37
+   11 | 44.43 |        Damon 97.45 |          Ami  2.60
+   12 | 49.49 |          Jay 91.13 |         Lane  9.62
+   13 | 53.33 |       Darrel 99.01 |        Damon  7.67
+   14 | 57.82 |        Damon 97.90 |      Kennith  6.79
+   15 | 60.19 |       Darrel 95.06 |        Damon 22.89
