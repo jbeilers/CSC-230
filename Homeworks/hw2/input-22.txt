@@ -1,0 +1,5 @@
+1
+abc cba
+This test file
+has a line that's too long.  Input lines can't be more than 80 characters, so this one is
+longer than the program permits.

@@ -1,0 +1,4 @@
+Thi file is already a multiple of 16 bytes
+in length.  It will still get padding.  It will
+get 16 bytes of the value 16 added to the end, so it
+will still be a multiple of 16 bytes in length.

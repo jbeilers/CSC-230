@@ -1,0 +1,10 @@
+In this test, we're checking
+to see how the program
+handles punctuation. Even
+if a word has non-whitespace
+characters around it, it
+should still be able to match
+a target string, as long as
+the characters around it
+are not considered "word"
+characters.

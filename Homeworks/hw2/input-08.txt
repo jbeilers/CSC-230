@@ -1,0 +1,14 @@
+3
+
+  comn
+    common
+    
+  som
+    some
+
+  spelng
+    spelling
+Cut spelng is a way to
+shorten words, and avoid
+som comn spelng
+errors.

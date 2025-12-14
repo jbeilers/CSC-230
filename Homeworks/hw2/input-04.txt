@@ -1,0 +1,12 @@
+5
+fo of
+hte the
+lins lines
+sevral several
+speled spelled
+This document is sevral
+lins long.  It has some
+words at the start fo
+some lines that are speled
+wrong and some words at
+hte end.

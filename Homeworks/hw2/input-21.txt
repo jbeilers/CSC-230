@@ -1,0 +1,5 @@
+2
+that other
+this that
+This test will fail, since there's a replacement
+string that's identical to a target string.

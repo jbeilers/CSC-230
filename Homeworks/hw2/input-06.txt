@@ -1,0 +1,16 @@
+5
+puntuation punctuation
+tst test
+we'r we're
+whitspace whitespace
+wurd word
+In this tst, we'r checking
+to see how the program
+handles puntuation. Even
+if a word has non-whitspace
+characters around it, it
+should still be able to match
+a target string, as long as
+the characters around it
+are not considered "wurd"
+characters.

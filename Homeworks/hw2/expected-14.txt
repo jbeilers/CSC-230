@@ -1,0 +1,1 @@
+This line's exactly 80 characters long. That's the maximum possible line length.

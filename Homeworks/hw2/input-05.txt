@@ -1,0 +1,14 @@
+4
+fo of
+ni in
+ot to
+ta at
+For this test, we have
+some target words that
+show up ta the start,
+the end or ni the middle
+fo longer words. These
+should not get replaced,
+since the program is
+supposed ot only replace
+whole words.

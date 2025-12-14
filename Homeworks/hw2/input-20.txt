@@ -1,0 +1,3 @@
+1
+ABC xyz
+The target strings can't contain capital letters.

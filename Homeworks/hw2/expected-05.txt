@@ -1,0 +1,9 @@
+For this test, we have
+some target words that
+show up at the start,
+the end or in the middle
+of longer words. These
+should not get replaced,
+since the program is
+supposed to only replace
+whole words.

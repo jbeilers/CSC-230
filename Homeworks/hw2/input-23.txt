@@ -1,0 +1,7 @@
+1
+x abcdefghijklmnop
+All input lines
+in this file start
+out short, but
+this one right here x x x x x will be too long after
+replacement.
